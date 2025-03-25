@@ -1,4 +1,4 @@
-## APACHE AIFLOW
+## APACHE AIRFLOW
 
 Plateforme open-source de gestion de workflow et d'orchestration de tâches,
 ### 1. Pourquoi utiliser un workflow ?
@@ -12,3 +12,7 @@ Plateforme open-source de gestion de workflow et d'orchestration de tâches,
 - Scalabilité : Facilite l'ajout de nouvelles tâches ou l'adaptation du processus.
 
 Dans un projet IoT, les workflows sont essentiels pour gérer efficacement la collecte, le traitement, et l'analyse des données provenant de nombreux capteurs.
+
+## Architecture du système
+
+![](./images/IoT_HealthcareSystem_Architecture1.png)
